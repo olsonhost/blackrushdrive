@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Large audio files
+music/
+*.wav
+*.mp3
+*.flac
+*.m4a
+
+# Large video files
+media/*.mp4
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# IDE files
+.idea/
+*.iml
