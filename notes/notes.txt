@@ -1,0 +1,1 @@
+Write me instructions for adding Google Analytics for this site like we did for the project at ..\atomicflix.com with an emphasis on gaining statistics on the playing of audio files, viewing the "about" page, and also people using the "Play All" option. I would like to be able to find out which audio files people are most likely to listen to.
